@@ -141,6 +141,17 @@ LAYOUTS = {
         row_spacing=0,
         corner_radius=0
     )
+    "silafix_big": SheetLayout(
+        display_name="silafix_big",
+        page_size=PAPER_SIZES["A4"],
+        label_width=76.0,
+        label_height=28.0,
+        columns=2,
+        rows=7,
+        column_spacing=0,
+        row_spacing=0,
+        corner_radius=0
+    )
 }
 
 LAYOUT_SELECT_OPTIONS = [
